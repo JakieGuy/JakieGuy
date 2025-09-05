@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JakieGuy
-- 👀 I’m interested in learning more about OS, networks, and Perl
+- 👀 I’m interested in learning more about Computer Networking (studying towards CCNA)
 - 🌱 I’m currently learning about systems programming
 - 📫 How to reach me: snakesonabeach@gmail.com
 - 😄 Pronouns: he/him
